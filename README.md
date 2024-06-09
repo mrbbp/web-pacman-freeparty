@@ -32,7 +32,7 @@ Scripts: "app/scripts", and at "build" folder
 <br>Audio: "app/style/audio"
 <br>Images and spritesheets: "app/style/graphics"
 ## Demo
-![image](https://user-images.githubusercontent.com/92959844/152112411-5c52087d-2f2c-49c2-b8df-a2e9bbfc55d5.png)
+![image](pacman-redesign.png)
 (this is only a screenshot as fullscreen mode)(press F11)
 ## Notes
 The "Thank you" folder is for the thank you page for installing the Opera addon
