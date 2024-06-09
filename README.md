@@ -1,8 +1,8 @@
 # Pacman (web)
 This is an online game of Pacman
 
-This fork was redesign for freeparty. Have redesigned characters (policemen, coke can, garbage) and new map (parking and meadow)
-this fork works on Chrome (who use svg pics), Firefox use png version who have not been updated.
+This fork was redesign for freeparty. Have redesigned characters (policemen, coke can, garbage) and new map (parking and meadow).  
+This fork works on Chrome (who use svg pics), Firefox use png version who have not been updated.  
 It add too a __gamepad__ (browser api) for playing.
 
 ## Instructions
