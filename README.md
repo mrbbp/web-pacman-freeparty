@@ -1,5 +1,10 @@
 # Pacman (web)
 This is an online game of Pacman
+
+This fork was redesign for freeparty. Have redesigned characters (policemen, coke can, garbage) and new map (parking and meadow)
+this fork works on Chrome (who use svg pics), Firefox use png version who have not been updated.
+It add too a __gamepad__ (browser api) for playing.
+
 ## Instructions
 Use the WASD or the arrow keys on your keyboard if you are on PC
 <br>Use the arrow symbols/buttons to move
@@ -31,7 +36,7 @@ Scripts: "app/scripts", and at "build" folder
 (this is only a screenshot as fullscreen mode)(press F11)
 ## Notes
 The "Thank you" folder is for the thank you page for installing the Opera addon
-<br>This game is not offline, to play it offline, see the Opera addon at the "Links" section
+<br>This game is __not offline__, to play it offline, see the Opera addon at the "Links" section
 <br>(Only for Opera browsers)
 <br>The website was biult with [GitHub Pages](https://pages.github.com/)
 <br>I enabled iframe so you could iframe it on your wabsite
